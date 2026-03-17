@@ -114,3 +114,5 @@ function processDoc(){
 </html>
 ```
 
+<h2>OUTPUT</h2>
+<img width="1896" height="1094" alt="image" src="https://github.com/user-attachments/assets/4b4ad568-3483-4de1-ae62-e85264cc60d9" />
