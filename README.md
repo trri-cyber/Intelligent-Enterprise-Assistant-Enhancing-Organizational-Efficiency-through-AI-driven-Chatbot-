@@ -1,0 +1,2 @@
+# Intelligent-Enterprise-Assistant-Enhancing-Organizational-Efficiency-through-AI-driven-Chatbot-
+This project delivers a secure and scalable chatbot for public sector organizations. Using NLP and deep learning, it provides real-time support for HR, IT, and events. It includes document processing, supports multiple users, and ensures data security with features like Two-Factor Authentication (2FA).
